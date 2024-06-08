@@ -11,4 +11,5 @@
 </a>
 
 ## Reach me at
-**jpcmp3@gmail.com**
+**jpcmp3@gmail.com** <br>
+**toshi2745 on Discord**
