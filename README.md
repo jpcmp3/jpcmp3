@@ -8,5 +8,5 @@
    <img src="https://skillicons.dev/icons?i=laravel,vue,react,js,php,mysql,tailwind,bootstrap,css,html" />
 </a>
 
-## Reach me on
+## Reach me at
 **jpcmp3@gmail.com**
