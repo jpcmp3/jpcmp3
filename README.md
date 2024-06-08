@@ -7,3 +7,6 @@
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=laravel,vue,react,js,php,mysql,tailwind,bootstrap,css,html" />
 </a>
+
+## Reach me on
+**jpcmp3@gmail.com**
