@@ -7,7 +7,7 @@
 
 ## Languages and tools I use
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=laravel,vue,react,js,php,mysql,tailwind,bootstrap,css,html,git" />
+   <img src="https://skillicons.dev/icons?i=laravel,react,js,php,mysql,tailwind,bootstrap,css,html,git" />
 </a>
 
 ## Reach me at
