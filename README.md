@@ -1,5 +1,3 @@
-## Hello! Welcome to my profile
-
 ### CS grad, currently working on a masters in Digital marketing and Web design.
 ### Fullstack web developer who loves learning and building things.
 ### Currently learning Laravel and React.
