@@ -1,8 +1,7 @@
 ## Hello! Welcome to my profile
 
-### I'm a CS graduate, always seeking new opportunities to utilize my programming skills to solve real-world problems.
-### I'm a fullstack web developer who loves learning and building things!
-### Working on a master's degree in Digital marketing and Web design.
+### CS grad, currently working on a masters in Digital marketing and Web design.
+### Fullstack web developer who loves learning and building things.
 ### Currently learning Laravel and React.
 
 ## Languages and tools I use
